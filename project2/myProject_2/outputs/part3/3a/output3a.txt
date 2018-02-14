@@ -1,0 +1,4 @@
+(27768, 27768)
+<class 'numpy.matrixlib.defmatrix.matrix'>
+<class 'numpy.matrixlib.defmatrix.matrix'>
+ \%\ of variance retained is  56.6737718247

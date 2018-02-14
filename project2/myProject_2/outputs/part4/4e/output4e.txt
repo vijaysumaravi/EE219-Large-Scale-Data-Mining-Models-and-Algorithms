@@ -1,0 +1,11 @@
+--------------------
+Confusion Matrix is  [[3644  259]
+ [ 155 3824]]
+--------------------
+--------------------
+Homogeneity: 0.705
+Completeness: 0.705
+Adjusted Rand-Index: 0.801
+V-measure: 0.705
+Adjusted Mutual info score: 0.705
+--------------------

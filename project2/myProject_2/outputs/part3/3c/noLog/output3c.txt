@@ -1,0 +1,135 @@
+--------------------
+Value of r =  1 
+
+Confusion Matrix is  [[2200 1703]
+ [2323 1656]]
+--------------------
+--------------------
+Value of r =  1 
+
+Homogeneity: 0.000
+Completeness: 0.000
+Adjusted Rand-Index: 0.000
+V-measure: 0.000
+Adjusted Mutual info score: 0.000
+--------------------
+--------------------
+Value of r =  2 
+
+Confusion Matrix is  [[ 731 3172]
+ [3943   36]]
+--------------------
+--------------------
+Value of r =  2 
+
+Homogeneity: 0.593
+Completeness: 0.608
+Adjusted Rand-Index: 0.649
+V-measure: 0.600
+Adjusted Mutual info score: 0.593
+--------------------
+--------------------
+Value of r =  3 
+
+Confusion Matrix is  [[3890   13]
+ [2305 1674]]
+--------------------
+--------------------
+Value of r =  3 
+
+Homogeneity: 0.238
+Completeness: 0.317
+Adjusted Rand-Index: 0.170
+V-measure: 0.272
+Adjusted Mutual info score: 0.237
+--------------------
+--------------------
+Value of r =  5 
+
+Confusion Matrix is  [[3898    5]
+ [2635 1344]]
+--------------------
+--------------------
+Value of r =  5 
+
+Homogeneity: 0.188
+Completeness: 0.284
+Adjusted Rand-Index: 0.109
+V-measure: 0.226
+Adjusted Mutual info score: 0.187
+--------------------
+--------------------
+Value of r =  10 
+
+Confusion Matrix is  [[ 712 3191]
+ [   2 3977]]
+--------------------
+--------------------
+Value of r =  10 
+
+Homogeneity: 0.096
+Completeness: 0.219
+Adjusted Rand-Index: 0.036
+V-measure: 0.133
+Adjusted Mutual info score: 0.096
+--------------------
+--------------------
+Value of r =  20 
+
+Confusion Matrix is  [[3226  677]
+ [3977    2]]
+--------------------
+--------------------
+Value of r =  20 
+
+Homogeneity: 0.091
+Completeness: 0.214
+Adjusted Rand-Index: 0.033
+V-measure: 0.128
+Adjusted Mutual info score: 0.091
+--------------------
+--------------------
+Value of r =  50 
+
+Confusion Matrix is  [[ 532 3371]
+ [   2 3977]]
+--------------------
+--------------------
+Value of r =  50 
+
+Homogeneity: 0.070
+Completeness: 0.195
+Adjusted Rand-Index: 0.021
+V-measure: 0.103
+Adjusted Mutual info score: 0.070
+--------------------
+--------------------
+Value of r =  100 
+
+Confusion Matrix is  [[ 556 3347]
+ [   3 3976]]
+--------------------
+--------------------
+Value of r =  100 
+
+Homogeneity: 0.072
+Completeness: 0.196
+Adjusted Rand-Index: 0.022
+V-measure: 0.106
+Adjusted Mutual info score: 0.072
+--------------------
+--------------------
+Value of r =  300 
+
+Confusion Matrix is  [[3790  113]
+ [3979    0]]
+--------------------
+--------------------
+Value of r =  300 
+
+Homogeneity: 0.015
+Completeness: 0.136
+Adjusted Rand-Index: 0.001
+V-measure: 0.027
+Adjusted Mutual info score: 0.015
+--------------------
