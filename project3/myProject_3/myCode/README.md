@@ -1,8 +1,13 @@
 Part 1-4 : Analyzing the Dataset and Neighborhood-based collaborative filtering
+
 Part 5: Model-based collaborative filtering
+
 Part 6: Naive collaborative filtering
+
 Part 7: Performance comparison
+
 Part 8: Ranking
+
 
 Please find the ipython notebooks attached to the project for each of the parts as mentioned above. 
 
